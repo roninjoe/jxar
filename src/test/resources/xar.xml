@@ -1,0 +1,2056 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xar>
+ <toc>
+  <creation-time>2007-12-29T18:52:02</creation-time>
+  <checksum style="sha1">
+   <offset>0</offset>
+   <size>20</size>
+  </checksum>
+  <file id="1">
+   <acl>
+    <access>user::rwx
+group::rwx
+other::r-x
+</access>
+   </acl>
+   <ctime>2007-12-29T18:50:34Z</ctime>
+   <mtime>2007-12-29T18:50:34Z</mtime>
+   <atime>2007-12-29T18:50:53Z</atime>
+   <group>bbraun</group>
+   <gid>500</gid>
+   <user>bbraun</user>
+   <uid>500</uid>
+   <mode>0775</mode>
+   <type>directory</type>
+   <name>xar-1.5.2</name>
+   <file id="2">
+    <acl>
+     <access>user::rwx
+group::rwx
+other::r-x
+</access>
+    </acl>
+    <ctime>2007-12-29T18:49:57Z</ctime>
+    <mtime>2007-12-29T18:49:57Z</mtime>
+    <atime>2007-12-29T18:50:53Z</atime>
+    <group>bbraun</group>
+    <gid>500</gid>
+    <user>bbraun</user>
+    <uid>500</uid>
+    <mode>0775</mode>
+    <type>directory</type>
+    <name>lib</name>
+    <file id="3">
+     <data>
+      <length>3256</length>
+      <offset>20</offset>
+      <size>9830</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">1e9be3891e735dff4d7b0d9fc24773401e2d3865</archived-checksum>
+      <extracted-checksum style="SHA1">e53d02cb66a01d47a0d63ea95c816ad2fafd3238</extracted-checksum>
+     </data>
+     <acl>
+      <access>user::rw-
+group::rw-
+other::r--
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0664</mode>
+     <type>file</type>
+     <name>fbsdattr.c</name>
+    </file>
+    <file id="4">
+     <data>
+      <length>1575</length>
+      <offset>3276</offset>
+      <size>4514</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">b7bb5dcd655286b34f308b04524cfa66a8f6166f</archived-checksum>
+      <extracted-checksum style="SHA1">4e05fe679cacc438724928152a6f663cf1816f7e</extracted-checksum>
+     </data>
+     <acl>
+      <access>user::rw-
+group::rw-
+other::r--
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0664</mode>
+     <type>file</type>
+     <name>filetree.h</name>
+    </file>
+    <file id="5">
+     <data>
+      <length>5185</length>
+      <offset>4851</offset>
+      <size>19716</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">19054ce2dc685eae91c97a06a8e78c4cb016df86</archived-checksum>
+      <extracted-checksum style="SHA1">365f33c57a023a6ee8c6198f4c1be3d54c2cef45</extracted-checksum>
+     </data>
+     <acl>
+      <access>user::rw-
+group::rw-
+other::r--
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0664</mode>
+     <type>file</type>
+     <name>stat.c</name>
+    </file>
+    <file id="6">
+     <data>
+      <length>2269</length>
+      <offset>10036</offset>
+      <size>7108</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">6906493a196cace3dd9a3ebd230b4531453b531e</archived-checksum>
+      <extracted-checksum style="SHA1">13df4d15a4ea42efd606b26ad948475edd7ecb38</extracted-checksum>
+     </data>
+     <acl>
+      <access>user::rw-
+group::rw-
+other::r--
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0664</mode>
+     <type>file</type>
+     <name>hash.c</name>
+    </file>
+    <file id="7">
+     <data>
+      <length>1028</length>
+      <offset>12305</offset>
+      <size>2020</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">181cf98a9db09eca7c85812db88b0bd2775be287</archived-checksum>
+      <extracted-checksum style="SHA1">7920f2e89a6aa44aea31b4eae54eaab8cd279f62</extracted-checksum>
+     </data>
+     <acl>
+      <access>user::rw-
+group::rw-
+other::r--
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0664</mode>
+     <type>file</type>
+     <name>ext2.h</name>
+    </file>
+    <file id="8">
+     <data>
+      <length>1043</length>
+      <offset>13333</offset>
+      <size>2092</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">c1f9ff975cec0a82552ae5940566052195a0eb1e</archived-checksum>
+      <extracted-checksum style="SHA1">ef0b11e10825746dd9e867d6cb9da2d0793e1f7a</extracted-checksum>
+     </data>
+     <acl>
+      <access>user::rw-
+group::rw-
+other::r--
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0664</mode>
+     <type>file</type>
+     <name>darwinattr.h</name>
+    </file>
+    <file id="9">
+     <data>
+      <length>437</length>
+      <offset>14376</offset>
+      <size>756</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">687906100a96eae05bb88614c81e0042b4332b2d</archived-checksum>
+      <extracted-checksum style="SHA1">f945deed5c0611781ee58e1191ed1b59562fb2d6</extracted-checksum>
+     </data>
+     <acl>
+      <access>user::rw-
+group::rw-
+other::r--
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0664</mode>
+     <type>file</type>
+     <name>libxar.la.in.in</name>
+    </file>
+    <file id="10">
+     <data>
+      <length>10055</length>
+      <offset>14813</offset>
+      <size>37885</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">821723600f005f778c1f15519eae51c1fff9012c</archived-checksum>
+      <extracted-checksum style="SHA1">ac5b26d095301b574972758e7754dea83b8d0c06</extracted-checksum>
+     </data>
+     <acl>
+      <access>user::rw-
+group::rw-
+other::r--
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0664</mode>
+     <type>file</type>
+     <name>archive.c</name>
+    </file>
+    <file id="11">
+     <data>
+      <length>2316</length>
+      <offset>24868</offset>
+      <size>6346</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">656f2a42be8a511699f8833d66bddc9dba84fdde</archived-checksum>
+      <extracted-checksum style="SHA1">de0bf28cc543cdcfb22be8afe828e4f1b0a11123</extracted-checksum>
+     </data>
+     <acl>
+      <access>user::rw-
+group::rw-
+other::r--
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0664</mode>
+     <type>file</type>
+     <name>subdoc.c</name>
+    </file>
+    <file id="12">
+     <data>
+      <length>1437</length>
+      <offset>27184</offset>
+      <size>2992</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">16afdde57127fd67190604286e850e5863e679ba</archived-checksum>
+      <extracted-checksum style="SHA1">ac9617232c4e3bdd31feeb399bf3d62809189af1</extracted-checksum>
+     </data>
+     <acl>
+      <access>user::rw-
+group::rw-
+other::r--
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0664</mode>
+     <type>file</type>
+     <name>script.c</name>
+    </file>
+    <file id="13">
+     <data>
+      <length>967</length>
+      <offset>28621</offset>
+      <size>1864</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">34bc5edb291db5287420145e2254edc922b32bee</archived-checksum>
+      <extracted-checksum style="SHA1">0b721c9c2bccf46f669916a5b22bd89a431af80e</extracted-checksum>
+     </data>
+     <acl>
+      <access>user::rw-
+group::rw-
+other::r--
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0664</mode>
+     <type>file</type>
+     <name>script.h</name>
+    </file>
+    <file id="14">
+     <data>
+      <length>1436</length>
+      <offset>29588</offset>
+      <size>3584</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">bf345410e78ff0d34d042653c15b5c2adcb1b528</archived-checksum>
+      <extracted-checksum style="SHA1">3c0ba04e144613f6c8d00ff592ea039f8efccea4</extracted-checksum>
+     </data>
+     <acl>
+      <access>user::rw-
+group::rw-
+other::r--
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0664</mode>
+     <type>file</type>
+     <name>arcmod.c</name>
+    </file>
+    <file id="15">
+     <data>
+      <length>1116</length>
+      <offset>31024</offset>
+      <size>2366</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">94f448d29523e484c2d02c52d6745a0121f6b9a6</archived-checksum>
+      <extracted-checksum style="SHA1">1ad7317e2bff867128da02c624b8bb7294b0bd4a</extracted-checksum>
+     </data>
+     <acl>
+      <access>user::rw-
+group::rw-
+other::r--
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0664</mode>
+     <type>file</type>
+     <name>arcmod.h</name>
+    </file>
+    <file id="16">
+     <data>
+      <length>2420</length>
+      <offset>32140</offset>
+      <size>7107</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">aa4272923fd75430ab401814203d4f199de62df1</archived-checksum>
+      <extracted-checksum style="SHA1">21516de75dd6167ad310caa8fea956d10c6eee1f</extracted-checksum>
+     </data>
+     <acl>
+      <access>user::rw-
+group::rw-
+other::r--
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0664</mode>
+     <type>file</type>
+     <name>b64.c</name>
+    </file>
+    <file id="17">
+     <data>
+      <length>1172</length>
+      <offset>34560</offset>
+      <size>2480</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">55c022d0798cb7f694b12d4175fb681d8c423aab</archived-checksum>
+      <extracted-checksum style="SHA1">c78745765aaa777fdf451c1424c8300d8c2e5dd9</extracted-checksum>
+     </data>
+     <acl>
+      <access>user::rw-
+group::rw-
+other::r--
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0664</mode>
+     <type>file</type>
+     <name>subdoc.h</name>
+    </file>
+    <file id="18">
+     <data>
+      <length>7739</length>
+      <offset>35732</offset>
+      <size>31198</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">3720dc5db364f068e161d5ec190af27913f2fbd8</archived-checksum>
+      <extracted-checksum style="SHA1">7708480d568c45676ae362d1a89705718393a9fd</extracted-checksum>
+     </data>
+     <acl>
+      <access>user::rw-
+group::rw-
+other::r--
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0664</mode>
+     <type>file</type>
+     <name>filetree.c</name>
+    </file>
+    <file id="19">
+     <data>
+      <length>2093</length>
+      <offset>43471</offset>
+      <size>6465</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">d7df330a07dde04424b1793c7319007cb73b57f3</archived-checksum>
+      <extracted-checksum style="SHA1">2773f6ebe0a2b4d1bd2e3d70efbe849c048d6561</extracted-checksum>
+     </data>
+     <acl>
+      <access>user::rw-
+group::rw-
+other::r--
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0664</mode>
+     <type>file</type>
+     <name>bzxar.c</name>
+    </file>
+    <file id="20">
+     <data>
+      <length>2413</length>
+      <offset>45564</offset>
+      <size>7610</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">97e83c5fa9d9fb4546cf85cb15ec41295d1e4ac9</archived-checksum>
+      <extracted-checksum style="SHA1">dce7a67c7f8730c16d5411234082b6ac73afa73c</extracted-checksum>
+     </data>
+     <acl>
+      <access>user::rw-
+group::rw-
+other::r--
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0664</mode>
+     <type>file</type>
+     <name>ext2.c</name>
+    </file>
+    <file id="21">
+     <data>
+      <length>1019</length>
+      <offset>47977</offset>
+      <size>2006</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">f0e7cdbc506bb9667c8fa71f06f1b2474573a973</archived-checksum>
+      <extracted-checksum style="SHA1">830133a1e23211f2dce43aa0d9b498907a2cebbe</extracted-checksum>
+     </data>
+     <acl>
+      <access>user::rw-
+group::rw-
+other::r--
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0664</mode>
+     <type>file</type>
+     <name>fbsdattr.h</name>
+    </file>
+    <file id="22">
+     <data>
+      <length>2559</length>
+      <offset>48996</offset>
+      <size>7436</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">66160a3651a6f92f4d577fc467428bfcbfcd6384</archived-checksum>
+      <extracted-checksum style="SHA1">7ae897b390d3aeda55af53f91a1abad7b71ed609</extracted-checksum>
+     </data>
+     <acl>
+      <access>user::rw-
+group::rw-
+other::r--
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0664</mode>
+     <type>file</type>
+     <name>linuxattr.c</name>
+    </file>
+    <file id="23">
+     <data>
+      <length>3495</length>
+      <offset>51555</offset>
+      <size>13756</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">6869a78cd27be0b2febd1fa65873f66403a43aca</archived-checksum>
+      <extracted-checksum style="SHA1">6ae299e1dd8fa313d140be2b156e5352440c8a1c</extracted-checksum>
+     </data>
+     <acl>
+      <access>user::rw-
+group::rw-
+other::r--
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0664</mode>
+     <type>file</type>
+     <name>macho.c</name>
+    </file>
+    <file id="24">
+     <data>
+      <length>197</length>
+      <offset>55050</offset>
+      <size>440</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">d0d18df871ae4f91ab22bb13ddcbaec972eb6f88</archived-checksum>
+      <extracted-checksum style="SHA1">b0ea7582bae3ff706aa2715e4892ad95f2c0b734</extracted-checksum>
+     </data>
+     <acl>
+      <access>user::rw-
+group::rw-
+other::r--
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0664</mode>
+     <type>file</type>
+     <name>ea.h</name>
+    </file>
+    <file id="25">
+     <data>
+      <length>1370</length>
+      <offset>55247</offset>
+      <size>3395</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">216a3250c29f611549a71b0b9a1c6c691ac73910</archived-checksum>
+      <extracted-checksum style="SHA1">a4595e7f2a654677cd22a0eab6490bbecd014d2b</extracted-checksum>
+     </data>
+     <acl>
+      <access>user::rw-
+group::rw-
+other::r--
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0664</mode>
+     <type>file</type>
+     <name>appledouble.h</name>
+    </file>
+    <file id="26">
+     <data>
+      <length>5042</length>
+      <offset>56617</offset>
+      <size>20329</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">2a08d70f1b7914a6d115bf19bf52c478af5a3fa9</archived-checksum>
+      <extracted-checksum style="SHA1">06e6fbd96155d81e8c810ab1538868b9f858ca82</extracted-checksum>
+     </data>
+     <acl>
+      <access>user::rw-
+group::rw-
+other::r--
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0664</mode>
+     <type>file</type>
+     <name>darwinattr.c</name>
+    </file>
+    <file id="27">
+     <data>
+      <length>1138</length>
+      <offset>61659</offset>
+      <size>2202</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">2a05ffa77c5fff6b381a2775b602fdf48ecad870</archived-checksum>
+      <extracted-checksum style="SHA1">93961bb412cad19d2275cac87b4e71956f4812b4</extracted-checksum>
+     </data>
+     <acl>
+      <access>user::rw-
+group::rw-
+other::r--
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0664</mode>
+     <type>file</type>
+     <name>util.h</name>
+    </file>
+    <file id="28">
+     <data>
+      <length>1983</length>
+      <offset>62797</offset>
+      <size>4453</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">f95e969e06e299f6988fa2e71b0917044f15fb15</archived-checksum>
+      <extracted-checksum style="SHA1">6db9e14c50d2d2b0bdf97bdf5b1272609ff3bdbc</extracted-checksum>
+     </data>
+     <acl>
+      <access>user::rw-
+group::rw-
+other::r--
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0664</mode>
+     <type>file</type>
+     <name>util.c</name>
+    </file>
+    <file id="29">
+     <data>
+      <length>1073</length>
+      <offset>64780</offset>
+      <size>2402</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">f5c5f146a20f3b6805194039600640d4ec6c574f</archived-checksum>
+      <extracted-checksum style="SHA1">8db6a2e2f058c22930616b84e651a27a8737dcd6</extracted-checksum>
+     </data>
+     <acl>
+      <access>user::rw-
+group::rw-
+other::r--
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0664</mode>
+     <type>file</type>
+     <name>hash.h</name>
+    </file>
+    <file id="30">
+     <data>
+      <length>2121</length>
+      <offset>65853</offset>
+      <size>6328</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">82e36ff2f193dea02bcc4526efa33f0876341933</archived-checksum>
+      <extracted-checksum style="SHA1">7b6f6bad1c579b5390e79857665ffe0ff73f7ddc</extracted-checksum>
+     </data>
+     <acl>
+      <access>user::rw-
+group::rw-
+other::r--
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0664</mode>
+     <type>file</type>
+     <name>zxar.c</name>
+    </file>
+    <file id="31">
+     <data>
+      <length>1026</length>
+      <offset>67974</offset>
+      <size>2039</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">174cc511451687127653426f76a7a9e69171d6e7</archived-checksum>
+      <extracted-checksum style="SHA1">4191a06c13b945e9d6577a2bf8b9cfbc2bb0d826</extracted-checksum>
+     </data>
+     <acl>
+      <access>user::rw-
+group::rw-
+other::r--
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0664</mode>
+     <type>file</type>
+     <name>data.h</name>
+    </file>
+    <file id="32">
+     <data>
+      <length>1043</length>
+      <offset>69000</offset>
+      <size>2163</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">51be978376c79391879ae63ba736ca6d7359dc06</archived-checksum>
+      <extracted-checksum style="SHA1">e05572bfc36141060ceb3a0fa50aacb021dd67b1</extracted-checksum>
+     </data>
+     <acl>
+      <access>user::rw-
+group::rw-
+other::r--
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0664</mode>
+     <type>file</type>
+     <name>zxar.h</name>
+    </file>
+    <file id="33">
+     <data>
+      <length>1207</length>
+      <offset>70043</offset>
+      <size>2448</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">9d4ab43618d5c42e91ebed4ddaa8439f236f8a5c</archived-checksum>
+      <extracted-checksum style="SHA1">b28d8c90f3ec31f42b68dcf5c8bddc24883266a3</extracted-checksum>
+     </data>
+     <acl>
+      <access>user::rw-
+group::rw-
+other::r--
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0664</mode>
+     <type>file</type>
+     <name>signature.h</name>
+    </file>
+    <file id="34">
+     <data>
+      <length>1042</length>
+      <offset>71250</offset>
+      <size>2166</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">2acf34de54545f6db2cd13712e56e85da9018173</archived-checksum>
+      <extracted-checksum style="SHA1">87bf17b1ac3d8615170d995ee4132716a7aab9cc</extracted-checksum>
+     </data>
+     <acl>
+      <access>user::rw-
+group::rw-
+other::r--
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0664</mode>
+     <type>file</type>
+     <name>bzxar.h</name>
+    </file>
+    <file id="35">
+     <data>
+      <length>1107</length>
+      <offset>72292</offset>
+      <size>2295</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">06949e7404c4672ce295697e53d9521b37c6851f</archived-checksum>
+      <extracted-checksum style="SHA1">82991c01a8e9e85e7fea6c10817f06020a24ca1b</extracted-checksum>
+     </data>
+     <acl>
+      <access>user::rw-
+group::rw-
+other::r--
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0664</mode>
+     <type>file</type>
+     <name>macho.h</name>
+    </file>
+    <file id="36">
+     <data>
+      <length>3794</length>
+      <offset>73399</offset>
+      <size>12925</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">0322c024a68f552a31536bb5173b87033abe128d</archived-checksum>
+      <extracted-checksum style="SHA1">5e2cc39c3542aac4087822cb430bafa3794121aa</extracted-checksum>
+     </data>
+     <acl>
+      <access>user::rw-
+group::rw-
+other::r--
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0664</mode>
+     <type>file</type>
+     <name>signature.c</name>
+    </file>
+    <file id="37">
+     <data>
+      <length>198</length>
+      <offset>77193</offset>
+      <size>322</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">0c322a91c2722d67fbd43c9ede4880fdc8b74525</archived-checksum>
+      <extracted-checksum style="SHA1">8be482440fe7b35d37afd382d74ef567b062d21d</extracted-checksum>
+     </data>
+     <acl>
+      <access>user::rw-
+group::rw-
+other::r--
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0664</mode>
+     <type>file</type>
+     <name>b64.h</name>
+    </file>
+    <file id="38">
+     <data>
+      <length>1229</length>
+      <offset>77391</offset>
+      <size>2739</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">0c4baae36c286faa50b7f827b5a70b521c35687b</archived-checksum>
+      <extracted-checksum style="SHA1">4191ef1d92876fc2784edab876119f7a64d6939e</extracted-checksum>
+     </data>
+     <acl>
+      <access>user::rw-
+group::rw-
+other::r--
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0664</mode>
+     <type>file</type>
+     <name>err.c</name>
+    </file>
+    <file id="39">
+     <data>
+      <length>1146</length>
+      <offset>78620</offset>
+      <size>2762</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">e280e4e42dd20a5f8a0ac77ad1b262f8d3452d02</archived-checksum>
+      <extracted-checksum style="SHA1">a888a0830bf514aeedbe3f2e07e2428699b6db60</extracted-checksum>
+     </data>
+     <acl>
+      <access>user::rw-
+group::rw-
+other::r--
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0664</mode>
+     <type>file</type>
+     <name>asprintf.h</name>
+    </file>
+    <file id="40">
+     <data>
+      <length>1049</length>
+      <offset>79766</offset>
+      <size>2183</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">1e59a2b2bdb01a7b46f90ca558d07edced558eed</archived-checksum>
+      <extracted-checksum style="SHA1">393954120c771c591a056feb24157f7a7576fee2</extracted-checksum>
+     </data>
+     <acl>
+      <access>user::rw-
+group::rw-
+other::r--
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0664</mode>
+     <type>file</type>
+     <name>stat.h</name>
+    </file>
+    <file id="41">
+     <data>
+      <length>1219</length>
+      <offset>80815</offset>
+      <size>3074</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">579a88a4ad29ac5f1d953be0f8dcc4ff2c09f6b4</archived-checksum>
+      <extracted-checksum style="SHA1">987626ff645516543b241633bb7d441a7265c407</extracted-checksum>
+     </data>
+     <acl>
+      <access>user::rw-
+group::rw-
+other::r--
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0664</mode>
+     <type>file</type>
+     <name>io.h</name>
+    </file>
+    <file id="42">
+     <data>
+      <length>1022</length>
+      <offset>82034</offset>
+      <size>2012</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">0878d7a88f2d16a5ccbc6768ed60bf70b26995f8</archived-checksum>
+      <extracted-checksum style="SHA1">78f119fca55db70ce5ba84633f6fe93a93b683d1</extracted-checksum>
+     </data>
+     <acl>
+      <access>user::rw-
+group::rw-
+other::r--
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0664</mode>
+     <type>file</type>
+     <name>linuxattr.h</name>
+    </file>
+    <file id="43">
+     <data>
+      <length>4106</length>
+      <offset>83056</offset>
+      <size>15593</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">2e11053b4681079ead629d6364b54e17f2651715</archived-checksum>
+      <extracted-checksum style="SHA1">52e3b4142f260bd61e59ddd517247276145101e6</extracted-checksum>
+     </data>
+     <acl>
+      <access>user::rw-
+group::rw-
+other::r--
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0664</mode>
+     <type>file</type>
+     <name>io.c</name>
+    </file>
+    <file id="44">
+     <data>
+      <length>718</length>
+      <offset>87162</offset>
+      <size>2020</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">9dcbecf543a98ec279f0d647bb4bd186ff97617b</archived-checksum>
+      <extracted-checksum style="SHA1">595fdde6e7fa504224def3b3693b6d46b7464623</extracted-checksum>
+     </data>
+     <acl>
+      <access>user::rw-
+group::rw-
+other::r--
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0664</mode>
+     <type>file</type>
+     <name>ea.c</name>
+    </file>
+    <file id="45">
+     <data>
+      <length>1737</length>
+      <offset>87880</offset>
+      <size>3827</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">677f67a75185119b5c9df4c883d0fb695d08a4d3</archived-checksum>
+      <extracted-checksum style="SHA1">aa32c7a58067c13cfd98ede411f15dda73420438</extracted-checksum>
+     </data>
+     <acl>
+      <access>user::rw-
+group::rw-
+other::r--
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0664</mode>
+     <type>file</type>
+     <name>archive.h</name>
+    </file>
+    <file id="46">
+     <data>
+      <length>2406</length>
+      <offset>89617</offset>
+      <size>7061</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">702da9ffe3cc04e2bcc2ecb24c29fd670e1c2b12</archived-checksum>
+      <extracted-checksum style="SHA1">ab0eed296126d3bc8e46aece10a2f77e642221ff</extracted-checksum>
+     </data>
+     <acl>
+      <access>user::rw-
+group::rw-
+other::r--
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0664</mode>
+     <type>file</type>
+     <name>data.c</name>
+    </file>
+    <file id="47">
+     <data>
+      <length>1431</length>
+      <offset>92023</offset>
+      <size>5534</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">6425f92763fe809cc1b2f36dc86c41e9750108e0</archived-checksum>
+      <extracted-checksum style="SHA1">525472a9887d663f4c07a4816512716aa5f2a120</extracted-checksum>
+     </data>
+     <acl>
+      <access>user::rw-
+group::rw-
+other::r--
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0664</mode>
+     <type>file</type>
+     <name>Makefile.inc.in</name>
+    </file>
+   </file>
+   <file id="48">
+    <data>
+     <length>15</length>
+     <offset>93454</offset>
+     <size>6</size>
+     <encoding style="application/x-gzip"/>
+     <archived-checksum style="SHA1">09e2d9ca389d308b619b55d819f73cffad3a4f7f</archived-checksum>
+     <extracted-checksum style="SHA1">30c72cc1f29dc013ecbe8b6fbe5abc81b35c3b9c</extracted-checksum>
+    </data>
+    <acl>
+     <access>user::rw-
+group::rw-
+other::r--
+</access>
+    </acl>
+    <ctime>2007-12-29T18:49:57Z</ctime>
+    <mtime>2007-12-29T18:49:57Z</mtime>
+    <atime>2007-12-29T18:50:53Z</atime>
+    <group>bbraun</group>
+    <gid>500</gid>
+    <user>bbraun</user>
+    <uid>500</uid>
+    <mode>0664</mode>
+    <type>file</type>
+    <name>cfgoutputs.stamp.in</name>
+   </file>
+   <file id="49">
+    <data>
+     <length>15</length>
+     <offset>93469</offset>
+     <size>6</size>
+     <encoding style="application/x-gzip"/>
+     <archived-checksum style="SHA1">09e2d9ca389d308b619b55d819f73cffad3a4f7f</archived-checksum>
+     <extracted-checksum style="SHA1">30c72cc1f29dc013ecbe8b6fbe5abc81b35c3b9c</extracted-checksum>
+    </data>
+    <acl>
+     <access>user::rw-
+group::rw-
+other::r--
+</access>
+    </acl>
+    <ctime>2007-12-29T18:49:57Z</ctime>
+    <mtime>2007-12-29T18:49:57Z</mtime>
+    <atime>2007-12-29T18:50:53Z</atime>
+    <group>bbraun</group>
+    <gid>500</gid>
+    <user>bbraun</user>
+    <uid>500</uid>
+    <mode>0664</mode>
+    <type>file</type>
+    <name>cfghdrs.stamp.in</name>
+   </file>
+   <file id="50">
+    <data>
+     <length>13600</length>
+     <offset>93484</offset>
+     <size>43499</size>
+     <encoding style="application/x-gzip"/>
+     <archived-checksum style="SHA1">d560bb99c581512bf1aebe0cd4b0f06ca6a33971</archived-checksum>
+     <extracted-checksum style="SHA1">46eed63d056d0eb8e6e1fd89bbb2063958a19497</extracted-checksum>
+     <content>
+      <interpreter></interpreter>
+      <type>script</type>
+     </content>
+    </data>
+    <acl>
+     <access>user::rwx
+group::rwx
+other::r-x
+</access>
+    </acl>
+    <ctime>2007-12-29T18:49:57Z</ctime>
+    <mtime>2007-12-29T18:49:57Z</mtime>
+    <atime>2007-12-29T18:50:53Z</atime>
+    <group>bbraun</group>
+    <gid>500</gid>
+    <user>bbraun</user>
+    <uid>500</uid>
+    <mode>0775</mode>
+    <type>file</type>
+    <name>config.guess</name>
+   </file>
+   <file id="51">
+    <data>
+     <length>1544</length>
+     <offset>107084</offset>
+     <size>4322</size>
+     <encoding style="application/x-gzip"/>
+     <archived-checksum style="SHA1">efa782d4560e0630087c55e781f96de2038c5f64</archived-checksum>
+     <extracted-checksum style="SHA1">ea594e50505a9df9de40d941e8f63391e5e45d29</extracted-checksum>
+    </data>
+    <acl>
+     <access>user::rw-
+group::rw-
+other::r--
+</access>
+    </acl>
+    <ctime>2007-12-29T18:49:57Z</ctime>
+    <mtime>2007-12-29T18:49:57Z</mtime>
+    <atime>2007-12-29T18:50:53Z</atime>
+    <group>bbraun</group>
+    <gid>500</gid>
+    <user>bbraun</user>
+    <uid>500</uid>
+    <mode>0664</mode>
+    <type>file</type>
+    <name>INSTALL</name>
+   </file>
+   <file id="52">
+    <acl>
+     <access>user::rwx
+group::rwx
+other::r-x
+</access>
+    </acl>
+    <ctime>2007-12-29T18:49:57Z</ctime>
+    <mtime>2007-12-29T18:49:57Z</mtime>
+    <atime>2007-12-29T18:50:53Z</atime>
+    <group>bbraun</group>
+    <gid>500</gid>
+    <user>bbraun</user>
+    <uid>500</uid>
+    <mode>0775</mode>
+    <type>directory</type>
+    <name>include</name>
+    <file id="53">
+     <data>
+      <length>212</length>
+      <offset>108628</offset>
+      <size>733</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">43ae0c8ef8a2b267d2ffd23b4d314eda16b658d0</archived-checksum>
+      <extracted-checksum style="SHA1">834c6e9b148c2b87b9f20d0af8306c6ca908f59e</extracted-checksum>
+     </data>
+     <acl>
+      <access>user::rw-
+group::rw-
+other::r--
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0664</mode>
+     <type>file</type>
+     <name>config.h.in</name>
+    </file>
+    <file id="54">
+     <data>
+      <length>2714</length>
+      <offset>108840</offset>
+      <size>8163</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">9f26f371515defeb7702993cb268fc2b5b1022d0</archived-checksum>
+      <extracted-checksum style="SHA1">9a8c81b73b543bc2ed5d5a314da89808a510c671</extracted-checksum>
+     </data>
+     <acl>
+      <access>user::rw-
+group::rw-
+other::r--
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0664</mode>
+     <type>file</type>
+     <name>xar.h.in</name>
+    </file>
+   </file>
+   <file id="55">
+    <data>
+     <length>40233</length>
+     <offset>111554</offset>
+     <size>272176</size>
+     <encoding style="application/x-gzip"/>
+     <archived-checksum style="SHA1">605ef7c6dc8bd66e23d38ddff750787c37276f47</archived-checksum>
+     <extracted-checksum style="SHA1">9be7ae797a9ee5867127091685ee13d9401f2787</extracted-checksum>
+     <content>
+      <interpreter></interpreter>
+      <type>script</type>
+     </content>
+    </data>
+    <acl>
+     <access>user::rwx
+group::rwx
+other::r-x
+</access>
+    </acl>
+    <ctime>2007-12-29T18:49:57Z</ctime>
+    <mtime>2007-12-29T18:49:57Z</mtime>
+    <atime>2007-12-29T18:50:53Z</atime>
+    <group>bbraun</group>
+    <gid>500</gid>
+    <user>bbraun</user>
+    <uid>500</uid>
+    <mode>0775</mode>
+    <type>file</type>
+    <name>configure</name>
+   </file>
+   <file id="56">
+    <acl>
+     <access>user::rwx
+group::rwx
+other::r-x
+</access>
+    </acl>
+    <ctime>2007-12-29T18:49:57Z</ctime>
+    <mtime>2007-12-29T18:49:57Z</mtime>
+    <atime>2007-12-29T18:50:53Z</atime>
+    <group>bbraun</group>
+    <gid>500</gid>
+    <user>bbraun</user>
+    <uid>500</uid>
+    <mode>0775</mode>
+    <type>directory</type>
+    <name>test</name>
+    <file id="57">
+     <data>
+      <length>487</length>
+      <offset>151787</offset>
+      <size>2299</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">464559b62b9fa59e876b08f3da6d3e769a97b6f6</archived-checksum>
+      <extracted-checksum style="SHA1">d97fe340b395c9fde24cbbb92771f7e86023cd85</extracted-checksum>
+      <content>
+       <interpreter>/bin/sh</interpreter>
+       <type>script</type>
+      </content>
+     </data>
+     <acl>
+      <access>user::rwx
+group::rwx
+other::r-x
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0775</mode>
+     <type>file</type>
+     <name>checksums</name>
+    </file>
+    <file id="58">
+     <data>
+      <length>405</length>
+      <offset>152274</offset>
+      <size>987</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">e0bce89506bde998ed8eb0877a98c493c520856b</archived-checksum>
+      <extracted-checksum style="SHA1">fce9eb5155907c3c1efb54ead9c8073199576b8c</extracted-checksum>
+     </data>
+     <acl>
+      <access>user::rwx
+group::rwx
+other::r-x
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0775</mode>
+     <type>file</type>
+     <name>functions</name>
+    </file>
+    <file id="59">
+     <data>
+      <length>419</length>
+      <offset>152679</offset>
+      <size>1681</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">e18de8d0ee22f277e5f33e417ad8adbafed11d1f</archived-checksum>
+      <extracted-checksum style="SHA1">2c88b048011917bfd896a7a7c8fc3699190fa72d</extracted-checksum>
+      <content>
+       <interpreter>/bin/sh</interpreter>
+       <type>script</type>
+      </content>
+     </data>
+     <acl>
+      <access>user::rwx
+group::rwx
+other::r-x
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0775</mode>
+     <type>file</type>
+     <name>attr</name>
+    </file>
+    <file id="60">
+     <data>
+      <length>181</length>
+      <offset>153098</offset>
+      <size>234</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">eef8044e8725c2846fc28c77dd8f04460f067f94</archived-checksum>
+      <extracted-checksum style="SHA1">f831835c9840be1eb40ded1968393e60e3df4df3</extracted-checksum>
+     </data>
+     <acl>
+      <access>user::rw-
+group::rw-
+other::r--
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0664</mode>
+     <type>file</type>
+     <name>data.xsl</name>
+    </file>
+    <file id="61">
+     <data>
+      <length>671</length>
+      <offset>153279</offset>
+      <size>1532</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">582205458623efe17bcb5beec66d6297a99a031e</archived-checksum>
+      <extracted-checksum style="SHA1">6972ca4a1685c643569737d70f7220f2d4417afe</extracted-checksum>
+     </data>
+     <acl>
+      <access>user::rw-
+group::rw-
+other::r--
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0664</mode>
+     <type>file</type>
+     <name>buffer.c</name>
+    </file>
+    <file id="62">
+     <data>
+      <length>278</length>
+      <offset>153950</offset>
+      <size>1740</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">9bbd04b5c7a4e9f67a46110305d91e35b350584b</archived-checksum>
+      <extracted-checksum style="SHA1">eebeff2ce1f979493d8412a35348dd4b812fcd1d</extracted-checksum>
+      <content>
+       <interpreter>/bin/sh</interpreter>
+       <type>script</type>
+      </content>
+     </data>
+     <acl>
+      <access>user::rwx
+group::rwx
+other::r-x
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0775</mode>
+     <type>file</type>
+     <name>compression</name>
+    </file>
+    <file id="63">
+     <data>
+      <length>266</length>
+      <offset>154228</offset>
+      <size>498</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">612fcb4f7ce194023258e48ebd9760312c9e98c5</archived-checksum>
+      <extracted-checksum style="SHA1">b9f77879b256f5a912265fe31d78b155bd3b2b83</extracted-checksum>
+     </data>
+     <acl>
+      <access>user::rw-
+group::rw-
+other::r--
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0664</mode>
+     <type>file</type>
+     <name>heap1.xsl</name>
+    </file>
+    <file id="64">
+     <data>
+      <length>502</length>
+      <offset>154494</offset>
+      <size>3364</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">064efb2aad2220f8e9b6be4f2105d4219157c952</archived-checksum>
+      <extracted-checksum style="SHA1">8409f9df1f9508c50cd3e091d491da70eabeedb4</extracted-checksum>
+      <content>
+       <interpreter>/bin/sh</interpreter>
+       <type>script</type>
+      </content>
+     </data>
+     <acl>
+      <access>user::rwx
+group::rwx
+other::r-x
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0775</mode>
+     <type>file</type>
+     <name>data</name>
+    </file>
+    <file id="65">
+     <data>
+      <length>478</length>
+      <offset>154996</offset>
+      <size>1636</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">6708daf4fbfa1fdaf60637b4a6e2d4167431ac7b</archived-checksum>
+      <extracted-checksum style="SHA1">32500212b150c347d5b8cbe5dfa83459b791d2a4</extracted-checksum>
+      <content>
+       <interpreter>/bin/sh</interpreter>
+       <type>script</type>
+      </content>
+     </data>
+     <acl>
+      <access>user::rwx
+group::rwx
+other::r-x
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0775</mode>
+     <type>file</type>
+     <name>heap</name>
+    </file>
+    <file id="66">
+     <data>
+      <length>269</length>
+      <offset>155474</offset>
+      <size>662</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">ac8c08f73b1aedeba983244e39757bcc745134e5</archived-checksum>
+      <extracted-checksum style="SHA1">f9d37ec53e6bb3d9619443b6b82adea5212c1a1e</extracted-checksum>
+      <content>
+       <interpreter>/bin/bash</interpreter>
+       <type>script</type>
+      </content>
+     </data>
+     <acl>
+      <access>user::rwx
+group::rwx
+other::r-x
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0775</mode>
+     <type>file</type>
+     <name>hardlink</name>
+    </file>
+    <file id="67">
+     <data>
+      <length>1284</length>
+      <offset>155743</offset>
+      <size>3654</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">e6a8436720ba564367c270f582ef76d810ccbeb7</archived-checksum>
+      <extracted-checksum style="SHA1">97131237f24abb3273884432523c7f34419f48f9</extracted-checksum>
+     </data>
+     <acl>
+      <access>user::rw-
+group::rw-
+other::r--
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0664</mode>
+     <type>file</type>
+     <name>validate.c</name>
+    </file>
+   </file>
+   <file id="68">
+    <data>
+     <length>855</length>
+     <offset>157027</offset>
+     <size>1627</size>
+     <encoding style="application/x-gzip"/>
+     <archived-checksum style="SHA1">ab84cf3f5eb9e0e582ab929a310d2ba952b8f6cb</archived-checksum>
+     <extracted-checksum style="SHA1">a1dabf4e1ce7a049bb4d09ea7dfe897e8e471e9e</extracted-checksum>
+    </data>
+    <acl>
+     <access>user::rw-
+group::rw-
+other::r--
+</access>
+    </acl>
+    <ctime>2007-12-29T18:49:57Z</ctime>
+    <mtime>2007-12-29T18:49:57Z</mtime>
+    <atime>2007-12-29T18:50:53Z</atime>
+    <group>bbraun</group>
+    <gid>500</gid>
+    <user>bbraun</user>
+    <uid>500</uid>
+    <mode>0664</mode>
+    <type>file</type>
+    <name>LICENSE</name>
+   </file>
+   <file id="69">
+    <data>
+     <length>830</length>
+     <offset>157882</offset>
+     <size>2317</size>
+     <encoding style="application/x-gzip"/>
+     <archived-checksum style="SHA1">24755449d9b11cab61bcb7e62f3def870d31b1c7</archived-checksum>
+     <extracted-checksum style="SHA1">39c023b3380452f3906563d154274d0494693522</extracted-checksum>
+    </data>
+    <acl>
+     <access>user::rw-
+group::rw-
+other::r--
+</access>
+    </acl>
+    <ctime>2007-12-29T18:49:57Z</ctime>
+    <mtime>2007-12-29T18:49:57Z</mtime>
+    <atime>2007-12-29T18:50:53Z</atime>
+    <group>bbraun</group>
+    <gid>500</gid>
+    <user>bbraun</user>
+    <uid>500</uid>
+    <mode>0664</mode>
+    <type>file</type>
+    <name>Makefile.in</name>
+   </file>
+   <file id="70">
+    <acl>
+     <access>user::rwx
+group::rwx
+other::r-x
+</access>
+    </acl>
+    <ctime>2007-12-29T18:49:57Z</ctime>
+    <mtime>2007-12-29T18:49:57Z</mtime>
+    <atime>2007-12-29T18:50:53Z</atime>
+    <group>bbraun</group>
+    <gid>500</gid>
+    <user>bbraun</user>
+    <uid>500</uid>
+    <mode>0775</mode>
+    <type>directory</type>
+    <name>src</name>
+    <file id="71">
+     <data>
+      <length>1589</length>
+      <offset>158712</offset>
+      <size>3505</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">bc280798b15457b69f48337987483217e6570aed</archived-checksum>
+      <extracted-checksum style="SHA1">7856c3e0a660a1c04614fb5f2fad3b90694ea070</extracted-checksum>
+     </data>
+     <acl>
+      <access>user::rw-
+group::rw-
+other::r--
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0664</mode>
+     <type>file</type>
+     <name>xar.1</name>
+    </file>
+    <file id="72">
+     <data>
+      <length>5786</length>
+      <offset>160301</offset>
+      <size>21382</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">80fb572b0591448d107561ac4dc8c0141f2d0182</archived-checksum>
+      <extracted-checksum style="SHA1">64d06a0a0716850870994338383205dd1d734f52</extracted-checksum>
+     </data>
+     <acl>
+      <access>user::rw-
+group::rw-
+other::r--
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0664</mode>
+     <type>file</type>
+     <name>xar.c</name>
+    </file>
+    <file id="73">
+     <data>
+      <length>657</length>
+      <offset>166087</offset>
+      <size>1759</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="SHA1">3945e10d0b703e7f8bc5935db7b242dbe81679a6</archived-checksum>
+      <extracted-checksum style="SHA1">7de44cf772ad7fd832a1998754d8d7f7a525346e</extracted-checksum>
+     </data>
+     <acl>
+      <access>user::rw-
+group::rw-
+other::r--
+</access>
+     </acl>
+     <ctime>2007-12-29T18:49:57Z</ctime>
+     <mtime>2007-12-29T18:49:57Z</mtime>
+     <atime>2007-12-29T18:50:53Z</atime>
+     <group>bbraun</group>
+     <gid>500</gid>
+     <user>bbraun</user>
+     <uid>500</uid>
+     <mode>0664</mode>
+     <type>file</type>
+     <name>Makefile.inc.in</name>
+    </file>
+   </file>
+   <file id="74">
+    <data>
+     <length>117</length>
+     <offset>166744</offset>
+     <size>122</size>
+     <encoding style="application/x-gzip"/>
+     <archived-checksum style="SHA1">457651af02ce6bdb0405e13e6c7d6c3710e22100</archived-checksum>
+     <extracted-checksum style="SHA1">4cee23c0b0b6b2ec28c10de266e92a15da698e79</extracted-checksum>
+    </data>
+    <acl>
+     <access>user::rw-
+group::rw-
+other::r--
+</access>
+    </acl>
+    <ctime>2007-12-29T18:49:57Z</ctime>
+    <mtime>2007-12-29T18:49:57Z</mtime>
+    <atime>2007-12-29T18:50:53Z</atime>
+    <group>bbraun</group>
+    <gid>500</gid>
+    <user>bbraun</user>
+    <uid>500</uid>
+    <mode>0664</mode>
+    <type>file</type>
+    <name>TODO</name>
+   </file>
+   <file id="75">
+    <data>
+     <length>3258</length>
+     <offset>166861</offset>
+     <size>9930</size>
+     <encoding style="application/x-gzip"/>
+     <archived-checksum style="SHA1">ad73f063fdfd9369718a373f75084c17fe827501</archived-checksum>
+     <extracted-checksum style="SHA1">c24748243cf7f8708a36ccef9e716276c80a7087</extracted-checksum>
+    </data>
+    <acl>
+     <access>user::rw-
+group::rw-
+other::r--
+</access>
+    </acl>
+    <ctime>2007-12-29T18:49:57Z</ctime>
+    <mtime>2007-12-29T18:49:57Z</mtime>
+    <atime>2007-12-29T18:50:53Z</atime>
+    <group>bbraun</group>
+    <gid>500</gid>
+    <user>bbraun</user>
+    <uid>500</uid>
+    <mode>0664</mode>
+    <type>file</type>
+    <name>configure.ac</name>
+   </file>
+   <file id="76">
+    <data>
+     <length>1179</length>
+     <offset>170119</offset>
+     <size>2613</size>
+     <encoding style="application/x-gzip"/>
+     <archived-checksum style="SHA1">eb30f0028d5c8160b8aedb1fde807a1a53544c94</archived-checksum>
+     <extracted-checksum style="SHA1">b922e92c6d6822fb8972bd9229c7adced97b4e10</extracted-checksum>
+    </data>
+    <acl>
+     <access>user::rw-
+group::rw-
+other::r--
+</access>
+    </acl>
+    <ctime>2007-12-29T18:49:57Z</ctime>
+    <mtime>2007-12-29T18:49:57Z</mtime>
+    <atime>2007-12-29T18:50:53Z</atime>
+    <group>bbraun</group>
+    <gid>500</gid>
+    <user>bbraun</user>
+    <uid>500</uid>
+    <mode>0664</mode>
+    <type>file</type>
+    <name>xar.spec.in</name>
+   </file>
+   <file id="77">
+    <acl>
+     <access>user::rwx
+group::rwx
+other::r-x
+</access>
+    </acl>
+    <ctime>2007-12-29T18:49:57Z</ctime>
+    <mtime>2007-12-29T18:49:57Z</mtime>
+    <atime>2007-12-29T18:50:53Z</atime>
+    <group>bbraun</group>
+    <gid>500</gid>
+    <user>bbraun</user>
+    <uid>500</uid>
+    <mode>0775</mode>
+    <type>directory</type>
+    <name>Mk</name>
+   </file>
+   <file id="78">
+    <data>
+     <length>9510</length>
+     <offset>171298</offset>
+     <size>31743</size>
+     <encoding style="application/x-gzip"/>
+     <archived-checksum style="SHA1">514fa67f6f42591575482faabe39c23478ec2ca7</archived-checksum>
+     <extracted-checksum style="SHA1">1f0ad140509a60ee2c6c686cbc9dba29ce5175ca</extracted-checksum>
+     <content>
+      <interpreter></interpreter>
+      <type>script</type>
+     </content>
+    </data>
+    <acl>
+     <access>user::rwx
+group::rwx
+other::r-x
+</access>
+    </acl>
+    <ctime>2007-12-29T18:49:57Z</ctime>
+    <mtime>2007-12-29T18:49:57Z</mtime>
+    <atime>2007-12-29T18:50:53Z</atime>
+    <group>bbraun</group>
+    <gid>500</gid>
+    <user>bbraun</user>
+    <uid>500</uid>
+    <mode>0775</mode>
+    <type>file</type>
+    <name>config.sub</name>
+   </file>
+   <file id="79">
+    <data>
+     <length>2253</length>
+     <offset>180808</offset>
+     <size>5585</size>
+     <encoding style="application/x-gzip"/>
+     <archived-checksum style="SHA1">802b2411b6fc66ebfe6f073df3420f9ea44f09fa</archived-checksum>
+     <extracted-checksum style="SHA1">2b1825e14443f31980a8a3a8071db3d608e24c4d</extracted-checksum>
+     <content>
+      <interpreter></interpreter>
+      <type>script</type>
+     </content>
+    </data>
+    <acl>
+     <access>user::rwx
+group::rwx
+other::r-x
+</access>
+    </acl>
+    <ctime>2007-12-29T18:49:57Z</ctime>
+    <mtime>2007-12-29T18:49:57Z</mtime>
+    <atime>2007-12-29T18:50:53Z</atime>
+    <group>bbraun</group>
+    <gid>500</gid>
+    <user>bbraun</user>
+    <uid>500</uid>
+    <mode>0775</mode>
+    <type>file</type>
+    <name>install-sh</name>
+   </file>
+  </file>
+ </toc>
+</xar>
