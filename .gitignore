@@ -4,4 +4,6 @@
 /.gradle
 /.settings
 /build
-
+/.idea
+/out
+jxar.iml
