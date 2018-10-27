@@ -3,6 +3,10 @@ apply plugin: 'eclipse'
 
 ext.mainClassName = "jxar.JxarDriver"
 
+task wrapper(type: Wrapper) {
+   gradleVersion = '2.9' 
+}
+
 sourceCompatibility = 1.7
 version = '0.1'
 jar {
